@@ -1,9 +1,9 @@
 {
-  "name": "dorbie",
-  "version": "0.0.0",
+  "name": "bits",
+  "version": "0.0.1",
   "private": true,
   "author": "Shawn Meyer <sgmeyer@gmail.com>",
-  "description": "Dorbie is a helpful robot that allows me to do useful things.  He keeps me legit",
+  "description": "Bit is a helpful robot that allows me to do useful things.  He keeps me legit.",
   "dependencies": {
     "hubot": "^2.17.0",
     "hubot-diagnostics": "0.0.1",
